@@ -1,0 +1,2 @@
+# Intelligent-Image-Classification-System-for-Fruit-Recognition
+This project develops a simple multi-class image classification system that automatically recognizes and categorizes fruit images using machine learning. Each image belongs to one category, such as apple, banana, or orange. A labeled dataset trains the model to learn key features like color, shape, and texture for accurate prediction.
