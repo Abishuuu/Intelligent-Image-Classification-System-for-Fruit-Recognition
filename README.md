@@ -57,24 +57,30 @@ The system can recognize the following **8 fruit categories**:
 - Pineapple  
 - Pomegranate  
 
-According to the dataset description in the project report, the dataset contains **8000 total images distributed across training, validation, and testing sets**. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 📂 Dataset Structure
+## 📁 Dataset Structure
 
 The dataset is organized into **train, validation, and test folders**.
+
+```
 Fruit/
 │
 ├── train/
-│ ├── Apple
-│ ├── Avocado
-│ ├── Banana
-│ └── ...
+│   ├── Apple
+│   ├── Avocado
+│   ├── Banana
+│   ├── Grapes
+│   ├── Mangosteen
+│   ├── Orange
+│   ├── Pineapple
+│   └── Pomegranate
 │
 ├── val/
 │
 └── test/
+```
 
 Each class contains images belonging to the corresponding fruit category.
 
